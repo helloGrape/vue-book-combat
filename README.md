@@ -1,31 +1,30 @@
 # vue-book-combat
 
 #### 项目介绍
-《Vue.js实战》实战练习
+《Vue.js实战》实战练习
 
-#### 软件架构
-软件架构说明
+1. label-page-my
+使用Vue全局组件实现一个独立的标签页组件。包括标签页外层组件tabs和标签页嵌套组件pan。标签支持是否关闭，显示时有动画效果。
 
+2. message-list-my
+分别用Render函数和template模板的方式实现简易的留言板列表。
 
-#### 安装教程
+3. sort-form-my
+分别用Render函数和template模板的方式实现一个可排序的table组件。
 
-1. xxxx
-2. xxxx
-3. xxxx
+4. vuex-my
+使用webpck基础配置搭建一个项目工程，其中用到了vue-router和vuex。
 
-#### 使用说明
+5. vue-bus-my
+使用webpck基础配置搭建一个项目工程，注册一个全局中央事件总线插件vue-bus。
 
-1. xxxx
-2. xxxx
-3. xxxx
+6. daily-my
+基于webpack4+vue+es6+axios实现的一个知乎日报单页应用。
 
-#### 参与贡献
+7. shopping-my
+基于webpack4+vue+vue-router+vuex+es6实现的一个电商网站项目。
 
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
+---------------------------------
 
 #### 码云特技
 
